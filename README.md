@@ -2,7 +2,7 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me 2364769946@qq.com
+- 📫 How to reach me whyxian@outlook.com
 
 <!---
 whyxian/whyxian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
